@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold; background-color: yellow;">
+<h1 align="center" style="font-weight: bold; background-color:#99cc00;">
   Hi there, I'm <mark style="color: red;">Abdallah Zahran!</mark> 
 </h1>
 
